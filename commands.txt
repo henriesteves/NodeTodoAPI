@@ -4,3 +4,4 @@ npm i mongoose --save
 
 npm i express body-parser --save
 
+npm i expect@1.20.2 mocha supertest nodemon --save-dev
