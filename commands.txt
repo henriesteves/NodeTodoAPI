@@ -1,1 +1,6 @@
 npm i mongodb --save
+
+npm i mongoose --save
+
+npm i express body-parser --save
+
