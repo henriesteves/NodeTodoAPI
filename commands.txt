@@ -14,3 +14,5 @@ heroku addons:create mongolab:sandbox
 heroku config
 
 git push heroku master
+
+npm i lodash --save
