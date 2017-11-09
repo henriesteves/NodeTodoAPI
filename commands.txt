@@ -13,6 +13,15 @@ heroku create
 heroku addons:create mongolab:sandbox
 heroku config
 
+heroku config
+heroku config:set NAME=Henrique
+heroku config
+heroku config:get NAME
+heroku config:unset NAME
+heroku config
+heroku config:set JWT_SECRET=<SECRET>
+
+
 git push heroku master
 
 npm i lodash --save
